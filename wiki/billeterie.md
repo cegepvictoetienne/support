@@ -1,11 +1,11 @@
 # Utilisation d'une billeterie  
 
-Dans ce cours, nous utiliserons __Freshdesk__ comme système de billeterie.  
+Dans ce cours, nous utiliserons __SpiceWorks__ comme système de billeterie.  
 
 ## Comment y accéder?  
 
-[Freshdesk du cours de support](https://cegepvicto.freshdesk.com/)  
+Chaque équipe utilisera une billeterie différente. 
 
-!!! note  
-    Vous devez utiliser votre compte Google du Cégep pour vous connecter.  
+Voici les liens pour y accéder :
 
+{{ read_excel('./template/billeterie.xlsx', engine='openpyxl', sheet_name="liste") }}  

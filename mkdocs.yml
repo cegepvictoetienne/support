@@ -35,11 +35,11 @@ nav:
   - 'Horaire':
       - 'Groupe 1': 'horaire-groupe1.md'
       - 'Groupe 2': 'horaire-groupe2.md'
+  - 'Billeterie': 'billeterie.md'
   - 'Théorie':
       - 'Résolution de problème': 'resolution-probleme.md'
       - 'Apprentissage par problème': 'apprentissage-probleme.md'
       - 'Formation des équipes': 'formation-equipes.md'
-      - 'Billeterie': 'billeterie.md'
       - "Types d'utilisateurs": 'types-utilisateurs.md'
       - 'Niveaux de priorités': 'niveaux-priorites.md'
       - "Comment faire un document d'aide": 'document-aide.md'

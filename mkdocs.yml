@@ -1,6 +1,7 @@
 site_name: Support technique
 site_author: Étienne Rivard
 theme:
+  favicon: images/phone.png
   name: material
   language: fr
   features:

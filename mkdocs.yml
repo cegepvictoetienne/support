@@ -31,6 +31,11 @@ extra_css:
 extra_javascript:
   - javascript/alltarget.js
 
+extra:
+  analytics:
+    provider: google
+    property: G-5F4C5XCXHD
+
 nav:
   - 'Page principale': 'index.md'
   - 'Horaire':

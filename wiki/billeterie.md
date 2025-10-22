@@ -1,6 +1,6 @@
 # Utilisation d'une billeterie  
 
-Dans ce cours, nous utiliserons __SpiceWorks__ comme système de billeterie.  
+Dans ce cours, nous utiliserons __Jira__ comme système de billeterie.  
 
 ## Comment y accéder?  
 

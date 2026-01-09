@@ -37,22 +37,20 @@ extra:
     property: G-5F4C5XCXHD
 
 nav:
-  - 'Page principale': 'index.md'
-  - 'Horaire':
-      - 'Groupe 1': 'horaire-groupe1.md'
-      - 'Groupe 2': 'horaire-groupe2.md'
-  - 'Billeterie': 'billeterie.md'
-  - 'Théorie':
-      - 'Résolution de problème': 'resolution-probleme.md'
-      - 'Apprentissage par problème': 'apprentissage-probleme.md'
-      - 'Formation des équipes': 'formation-equipes.md'
-      - "Types d'utilisateurs": 'types-utilisateurs.md'
-      - 'Niveaux de priorités': 'niveaux-priorites.md'
-      - "Comment faire un document d'aide": 'document-aide.md'
-      - 'Niveaux de service': 'niveaux-service.md'
-      - 'Défis': 'defis.md'
-      - 'Niveaux de support': 'niveaux-support.md'
-  - 'À propos': 'apropos.md'
+  - "Page principale": "index.md"
+  - "Horaire": "horaire-groupe1.md"
+  - "Billeterie": "billeterie.md"
+  - "Théorie":
+      - "Résolution de problème": "resolution-probleme.md"
+      - "Apprentissage par problème": "apprentissage-probleme.md"
+      - "Formation des équipes": "formation-equipes.md"
+      - "Types d'utilisateurs": "types-utilisateurs.md"
+      - "Niveaux de priorités": "niveaux-priorites.md"
+      - "Comment faire un document d'aide": "document-aide.md"
+      - "Niveaux de service": "niveaux-service.md"
+      - "Défis": "defis.md"
+      - "Niveaux de support": "niveaux-support.md"
+  - "À propos": "apropos.md"
 
 markdown_extensions:
   - admonition
@@ -74,6 +72,6 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.superfences
 
-docs_dir: 'wiki'
-site_dir: 'www'
+docs_dir: "wiki"
+site_dir: "www"
 use_directory_urls: True

@@ -17,9 +17,9 @@
 
 # Exemple  
 
-Attaque avec une force brute
+Attaque avec une force brute  
 
-Certaines application Web sont susceptibles à une attaque par force brute. Pour démontrer comment faire une telle attaque, nous allons utiliser BurpSuite.
+Certaines applications Web sont susceptibles à une attaque par force brute. Pour démontrer comment faire une telle attaque, nous allons utiliser BurpSuite.  
 
 ## Démarrer BurpSuite
 

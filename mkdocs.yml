@@ -39,6 +39,7 @@ extra:
 nav:
   - "Page principale": "index.md"
   - "Horaire": "horaire-groupe1.md"
+  - "Horaire simulation": "horaire-eleve.md"
   - "Billeterie": "billeterie.md"
   - "Théorie":
       - "Résolution de problème": "resolution-probleme.md"

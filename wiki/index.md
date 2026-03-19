@@ -17,5 +17,5 @@ Nom : Étienne Rivard
 | Examen formatif formel |     0%     |                   Semaine 2                    |
 |        Document d'aide        |     10%     |                  Semaine 3                  |
 |   Examen théorique   |     20%     | Semaine 7 |
-|   Simulation de formation   |     20%     | Semaines 10 et 11 |
+|   Simulation de formation   |     20%     | Semaines 12 et 13 |
 |   Projet final   |     50%     | Semaines 14 et 15 |

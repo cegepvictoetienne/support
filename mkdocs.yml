@@ -52,6 +52,7 @@ nav:
       - "Défis": "defis.md"
       - "Niveaux de support": "niveaux-support.md"
   - "À propos": "apropos.md"
+  - "Déclaration de l'utilisation de l'IA": "declaration-ia.md"
 
 markdown_extensions:
   - admonition

@@ -1,5 +1,27 @@
 # Horaire simulation de formation
-
-
-{{ read_excel('./template/horaire_eleve.xlsx', engine='openpyxl', sheet_name="Sheet1") }}  
-
+Élève|Date et heure|Local
+--|--|--
+Nicolas R.|2026-04-20 15:15:00|C205
+Dany M.|2026-04-20 15:30:00|C205
+Justin L.|2026-04-20 15:45:00|C205
+Simon B.|2026-04-20 16:00:00|C205
+Justin L.|2026-04-20 16:15:00|C205
+Henri L.|2026-04-20 16:30:00|C205
+Ali M.|2026-04-23 13:15:00|E210
+Raphaël P.|2026-04-23 13:30:00|E210
+Éliott M.|2026-04-23 13:45:00|E210
+Samuel D.|2026-04-23 14:00:00|E210
+Evelyne G.|2026-04-23 14:15:00|E210
+Dereck D.|2026-04-23 14:30:00|E210
+Mavrick R.|2026-04-27 15:15:00|C205
+Esai Emmanuel K.|2026-04-27 15:30:00|C205
+Maxime P.|2026-04-27 15:45:00|C205
+Vincent H.|2026-04-27 16:00:00|C205
+Olivier C.|2026-04-27 16:15:00|C205
+Noah D.|2026-04-27 16:30:00|C205
+Christophe M.|2026-04-28 13:15:00|E210
+Nathan G.|2026-04-28 13:30:00|E210
+Benjamin M.|2026-04-28 13:45:00|E210
+Eduardo A.|2026-04-28 14:00:00|E210
+Hatuey V.|2026-04-28 14:15:00|E210
+David P.|2026-04-28 14:30:00|E210

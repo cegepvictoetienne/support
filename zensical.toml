@@ -1,0 +1,52 @@
+[project]
+site_name = "Support technique"
+site_url = "https://support.profinfo.ca"
+site_dir = "site"
+docs_dir = "wiki"
+
+nav = [
+  {"Page principale" = "index.md"},
+  {"Horaire" = "horaire-groupe1.md"},
+  {"Horaire simulation" = "horaire-eleve.md"},
+  {"Billeterie" = "billeterie.md"},
+  {"Théorie" = [
+    {"Résolution de problème" = "resolution-probleme.md"},
+    {"Apprentissage par problème" = "apprentissage-probleme.md"},
+    {"Formation des équipes" = "formation-equipes.md"},
+    {"Types d'utilisateurs" = "types-utilisateurs.md"},
+    {"Niveaux de priorités" = "niveaux-priorites.md"},
+    {"Comment faire un document d'aide" = "document-aide.md"},
+    {"Niveaux de service" = "niveaux-service.md"},
+    {"Défis" = "defis.md"},
+    {"Niveaux de support" = "niveaux-support.md"},
+  ]},
+  {"À propos" = "apropos.md"},
+  {"Déclaration de l'utilisation de l'IA" = "declaration-ia.md"},
+]
+
+[project.theme]
+name = "material"
+variant = "classic"
+favicon = "images/phone.png"
+language = "fr"
+features = [
+  "content.code.copy",
+]
+
+[project.theme.icon.admonition]
+note = "fontawesome/solid/note-sticky"
+abstract = "fontawesome/solid/book"
+info = "fontawesome/solid/circle-info"
+tip = "fontawesome/solid/bullhorn"
+success = "fontawesome/solid/check"
+question = "fontawesome/solid/circle-question"
+warning = "fontawesome/solid/triangle-exclamation"
+failure = "fontawesome/solid/bomb"
+danger = "fontawesome/solid/skull"
+bug = "fontawesome/solid/robot"
+example = "fontawesome/solid/flask"
+quote = "fontawesome/solid/quote-left"
+
+[project.plugins]
+search = {}
+

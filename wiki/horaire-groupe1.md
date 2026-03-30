@@ -19,9 +19,9 @@ Semaine|Cours|Date|Théorie|Billets|Évaluation
 8|16|2026-03-16 15:15:00| |Excel| 
 9|17|2026-03-20 13:15:00| |Excel| 
 9|18|2026-03-23 15:15:00| |Excel| 
-10|19|2026-03-30 15:15:00| |PowerApps| 
+10|19|2026-03-30 15:15:00| |Excel| 
 10|20|2026-04-10 13:15:00| |PowerApps| 
-11|21|2026-04-13 15:15:00| |Excel| 
+11|21|2026-04-13 15:15:00| |PowerApps| 
 11|22|2026-04-17 13:15:00| | |Formation PowerAutomate
 12|23|2026-04-20 15:15:00| [Horaire de simulation](horaire-eleve.md)| |Simulation de formation (individuel)
 12|24|2026-04-23 13:15:00| [Horaire de simulation](horaire-eleve.md)| |Simulation de formation (individuel)
